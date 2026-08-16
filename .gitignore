@@ -1,4 +1,5 @@
 node_modules/
 yarn.lock
 *.log
-.env
+.envpublic/javascripts/bundle.js
+public/stylesheets/bundle.css
